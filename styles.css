@@ -1,13 +1,14 @@
 
 /* General styles */
 body {
-    --background-color: #17072b;
-    --body-text: rgb(199, 199, 199);
-    --header-color: #110124;
-    --card-color: rgb(22, 11, 53);
-    --detail-color: rgb(28, 14, 66);
-    --detail-hover-color: rgb(29, 14, 70);
-    --subtitle-text-color: #a7854a;
+    --background-color: #515e29;
+    --body-text: #fefae0;
+    --header-color: #283618;
+    --header-text: #fefae0;
+    --card-color: #684628;
+    --detail-color: #815833;
+    --detail-hover-color: #815833;
+    --subtitle-text-color: #fefae0;
 
 
     font-family: 'Recursive', sans-serif;
@@ -21,7 +22,7 @@ header {
     background-color: var(--header-color);
     text-align: center;
     padding: 1rem 0;
-    color: #ddd;
+    color: var(--header-text);
 }
 
 h1, h2, h3 {
