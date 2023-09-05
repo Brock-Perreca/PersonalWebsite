@@ -1,14 +1,14 @@
 
 /* General styles */
 body {
-    --background-color: #515e29;
-    --body-text: #fefae0;
-    --header-color: #283618;
-    --header-text: #fefae0;
-    --card-color: #684628;
-    --detail-color: #815833;
-    --detail-hover-color: #815833;
-    --subtitle-text-color: #fefae0;
+    --background-color: #181a1f;
+    --body-text: #E5E5E5;
+    --header-color: #181a1f;
+    --header-text: #e7ddb1;
+    --card-color: #22262c;
+    --detail-color: #2a2e36;
+    --detail-hover-color: #2D283E;
+    --subtitle-text-color: #E5E5E5;
 
 
     font-family: 'Recursive', sans-serif;
@@ -50,7 +50,7 @@ h2 {
     padding: 2rem;
     margin-bottom: 2rem;
     border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 0 10px rgba(231,221,177, 0.5);
 }
 
 
